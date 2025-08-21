@@ -1,5 +1,5 @@
 # webcrawlerengineervacancy
-web crawler engineer
+web crawler engineer > Telegram: @newrecruitmentservice 
 
 Crawling the Uncharted: Crafting AI-Driven Distributed Web Harvesters — Are You Ready to Explore?
 
