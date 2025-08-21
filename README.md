@@ -1,7 +1,7 @@
-# webcrawlerengineervacancy
-web crawler engineer > Telegram: @newrecruitmentservice 
+### web crawler engineer vacancy
+### web crawler engineer > Telegram: [t.me/newrecruitmentservice]  
 
-Crawling the Uncharted: Crafting AI-Driven Distributed Web Harvesters — Are You Ready to Explore?
+# Crawling the Uncharted: Crafting AI-Driven Distributed Web Harvesters — Are You Ready to Explore?
 
 A Series B startup in San Francisco is on the hunt for a Web Crawler Engineer (text me directly if you know somebody who fits). Lately, engineers who can architect and optimize massive-scale crawlers have become some of the most sought-after specialists, driven by the surge of AI-powered, high-throughput search systems.
 
